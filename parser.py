@@ -67,4 +67,4 @@ def donate_event_to_str(
     if indent is None:
         return AlumniParser.dumps(record)
     return json.dumps(record, indent=indent, default=str)
-# Last sync: 2026-09-12 18:28:16 UTC
+# Last sync: 2026-09-12 19:43:41 UTC
